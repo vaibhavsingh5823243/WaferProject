@@ -1,0 +1,244 @@
+$2022-01-28 22:23:26 Null values checked successfully.1840 null values present in dataset.
+$2022-01-28 22:23:26 KNNImputer model load successfully.
+$2022-01-28 22:23:26 X has 474 features, but KNNImputer is expecting 590 features as input.
+$2022-01-28 22:28:12 XGBClassifier model load successfully.
+$2022-01-28 22:47:23 XGBClassifier model load successfully.
+$2022-01-28 23:02:48 Null values checked successfully.1840 null values present in dataset.
+$2022-01-28 23:02:48 KNNImputer model load successfully.
+$2022-01-28 23:02:48 X has 474 features, but KNNImputer is expecting 590 features as input.
+$2022-01-28 23:03:31 XGBClassifier model load successfully.
+$2022-01-29 00:20:53 [Errno 2] No such file or directory: 'D:\\MachineLearningLiveClass\\baferdetection\\Validated_Raw_Files\\Good_Raw_Files\\wafer_13012020_090817.csv'
+$2022-01-29 00:22:51 XGBClassifier objectSaver load successfully.
+$2022-01-29 00:23:09 'Train' object has no attribute 'run'
+$2022-01-29 00:23:52 Script Started...
+$2022-01-29 00:23:52 Fetching of values from trainingDatasetSchema.json started...
+$2022-01-29 00:23:52 Values for validating Data Sharing Aggrement fetched successfully  from trainingDatasetSchema.json
+$2022-01-29 00:23:52 Regex pattern created for file name validation purpose
+$2022-01-29 00:23:52 Bad Raw Folder deleted successfully.
+$2022-01-29 00:23:52 Good Raw Folder deleted successfully.
+$2022-01-29 00:23:52 validatedFiles/Good_Raw_Files/ created.
+$2022-01-29 00:23:52 validatedFiles/Bad_Raw_Files/ created
+$2022-01-29 00:23:52 Bad file!! Wafer12_20012.csv move to Bad Raw Folder.
+$2022-01-29 00:23:52 Bad file!! Waferdefault_15010_130532.csv move to Bad Raw Folder.
+$2022-01-29 00:23:52 Bad file!! Wafer_07012020_000000.csv move to Bad Raw Folder.
+$2022-01-29 00:23:52 wafer_07012020_041011.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:52 Bad file!! Wafer_07012020_223345.csv move to Bad Raw Folder.
+$2022-01-29 00:23:52 Bad file!! Wafer_08012020_120000.csv move to Bad Raw Folder.
+$2022-01-29 00:23:52 Bad file!! Wafer_10012020_131534.csv move to Bad Raw Folder.
+$2022-01-29 00:23:52 Bad file!! Wafer_11012020_151432.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_12012020_111.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_12012020_111213.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 wafer_13012020_090817.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_13012020_141000.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_14012020_113045.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_15010_130532.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_15012020_130532.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 wafer_16012020_051629.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 wafer_16012020_134553.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 wafer_17012020_125434.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_18012020_121532.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_19012020_141432.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 wafer_20012020_090819.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_20012020_135132.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 wafer_20022020_090716.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 wafer_21012020_080913.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_21012020_143634.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_22012020_173245.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 wafer_22022020_041119.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 wafer_23012020_011008.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 wafer_23012020_041211.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_23012020_163456.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_24012020_150121.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 Bad file!! Wafer_25012020_142112.csv move to Bad Raw Folder.
+$2022-01-29 00:23:53 wafer_27012020_080911.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:54 wafer_28012020_051011.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:54 wafer_28012020_090817.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:54 wafer_28042020_031911.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:54 wafer_29012020_050617.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:54 wafer_29012020_060756.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:54 wafer_31012020_090811.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:23:54 Bad file!! Wafer_fault_detection.csv move to Bad Raw Folder.
+$2022-01-29 00:23:54 Bad file!! Wafer_text_130532.csv move to Bad Raw Folder.
+$2022-01-29 00:23:54 All files are divided into Good Raw Files and Bad Raw Files.
+$2022-01-29 00:23:54 Column Validation Started...
+$2022-01-29 00:23:54 Column Validation fail for wafer_07012020_041011.csv
+$2022-01-29 00:23:54 Number of columns and Null ColumnsValidated successfully for wafer_13012020_090817.csv.
+$2022-01-29 00:23:54 Number of columns and Null ColumnsValidated successfully for wafer_16012020_051629.csv.
+$2022-01-29 00:23:54 Column Validation fail for wafer_16012020_134553.csv
+$2022-01-29 00:23:54 Column Validation fail for wafer_17012020_125434.csv
+$2022-01-29 00:23:54 Column Validation fail for wafer_20012020_090819.csv
+$2022-01-29 00:23:55 Number of columns and Null ColumnsValidated successfully for wafer_20022020_090716.csv.
+$2022-01-29 00:23:55 Number of columns and Null ColumnsValidated successfully for wafer_21012020_080913.csv.
+$2022-01-29 00:23:55 Column Validation fail for wafer_22022020_041119.csv
+$2022-01-29 00:23:55 Column Validation fail for wafer_23012020_011008.csv
+$2022-01-29 00:23:55 Number of columns and Null ColumnsValidated successfully for wafer_23012020_041211.csv.
+$2022-01-29 00:23:55 Number of columns and Null ColumnsValidated successfully for wafer_27012020_080911.csv.
+$2022-01-29 00:23:55 Column Validation fail for wafer_28012020_051011.csv
+$2022-01-29 00:23:55 Number of columns and Null ColumnsValidated successfully for wafer_28012020_090817.csv.
+$2022-01-29 00:23:56 Number of columns and Null ColumnsValidated successfully for wafer_28042020_031911.csv.
+$2022-01-29 00:23:56 Number of columns and Null ColumnsValidated successfully for wafer_29012020_050617.csv.
+$2022-01-29 00:23:56 Column Validation fail for wafer_29012020_060756.csv
+$2022-01-29 00:23:56 Column Validation fail for wafer_31012020_090811.csv
+$2022-01-29 00:23:57 File wafer_13012020_090817.csv transformed successfully.
+$2022-01-29 00:23:58 File wafer_16012020_051629.csv transformed successfully.
+$2022-01-29 00:23:58 File wafer_20022020_090716.csv transformed successfully.
+$2022-01-29 00:23:59 File wafer_21012020_080913.csv transformed successfully.
+$2022-01-29 00:24:00 File wafer_23012020_041211.csv transformed successfully.
+$2022-01-29 00:24:01 File wafer_27012020_080911.csv transformed successfully.
+$2022-01-29 00:24:02 File wafer_28012020_090817.csv transformed successfully.
+$2022-01-29 00:24:03 File wafer_28042020_031911.csv transformed successfully.
+$2022-01-29 00:24:04 File wafer_29012020_050617.csv transformed successfully.
+$2022-01-29 00:24:04 Successfully connected to vaibhav database.
+$2022-01-29 00:24:04 Good_Raw_Data successfully create inside vaibhav database.
+$2022-01-29 00:24:04 Successfully connected to vaibhav database.
+$2022-01-29 00:24:12 wafer_13012020_090817.csv inserted into database successfully.
+$2022-01-29 00:24:20 wafer_16012020_051629.csv inserted into database successfully.
+$2022-01-29 00:24:23 wafer_20022020_090716.csv inserted into database successfully.
+$2022-01-29 00:24:31 wafer_21012020_080913.csv inserted into database successfully.
+$2022-01-29 00:24:39 wafer_23012020_041211.csv inserted into database successfully.
+$2022-01-29 00:24:48 wafer_27012020_080911.csv inserted into database successfully.
+$2022-01-29 00:24:56 wafer_28012020_090817.csv inserted into database successfully.
+$2022-01-29 00:25:04 wafer_28042020_031911.csv inserted into database successfully.
+$2022-01-29 00:25:12 wafer_29012020_050617.csv inserted into database successfully.
+$2022-01-29 00:25:12 vaibhavConnection closed
+$2022-01-29 00:25:12 Successfully connected to vaibhav database.
+$2022-01-29 00:25:13 Data fetched successfully from Good_Raw_Data
+$2022-01-29 00:25:13 Data inserted into database.
+$2022-01-29 00:25:13 Redundant columns ['Wafer'] removed successfully.
+$2022-01-29 00:25:13 Features and target values seperated successfully.
+Features are Index(['Sensor1', 'Sensor2', 'Sensor3', 'Sensor4', 'Sensor5', 'Sensor6',
+       'Sensor7', 'Sensor8', 'Sensor9', 'Sensor10',
+       ...
+       'Sensor581', 'Sensor582', 'Sensor583', 'Sensor584', 'Sensor585',
+       'Sensor586', 'Sensor587', 'Sensor588', 'Sensor589', 'Sensor590'],
+      dtype='object', length=590) and Output is target value.
+$2022-01-29 00:25:14 Columns with 0 standard deviation are:['Sensor6', 'Sensor14', 'Sensor43', 'Sensor50', 'Sensor53', 'Sensor70', 'Sensor98', 'Sensor142', 'Sensor150', 'Sensor179', 'Sensor180', 'Sensor187', 'Sensor190', 'Sensor191', 'Sensor192', 'Sensor193', 'Sensor194', 'Sensor195', 'Sensor227', 'Sensor230', 'Sensor231', 'Sensor232', 'Sensor233', 'Sensor234', 'Sensor235', 'Sensor236', 'Sensor237', 'Sensor238', 'Sensor241', 'Sensor242', 'Sensor243', 'Sensor244', 'Sensor257', 'Sensor258', 'Sensor259', 'Sensor260', 'Sensor261', 'Sensor262', 'Sensor263', 'Sensor264', 'Sensor265', 'Sensor266', 'Sensor267', 'Sensor277', 'Sensor285', 'Sensor314', 'Sensor315', 'Sensor316', 'Sensor323', 'Sensor326', 'Sensor327', 'Sensor328', 'Sensor329', 'Sensor330', 'Sensor331', 'Sensor365', 'Sensor370', 'Sensor371', 'Sensor372', 'Sensor373', 'Sensor374', 'Sensor375', 'Sensor376', 'Sensor379', 'Sensor380', 'Sensor381', 'Sensor382', 'Sensor395', 'Sensor396', 'Sensor397', 'Sensor398', 'Sensor399', 'Sensor400', 'Sensor401', 'Sensor402', 'Sensor403', 'Sensor404', 'Sensor405', 'Sensor415', 'Sensor423', 'Sensor450', 'Sensor451', 'Sensor452', 'Sensor459', 'Sensor462', 'Sensor463', 'Sensor464', 'Sensor465', 'Sensor466', 'Sensor467', 'Sensor482', 'Sensor499', 'Sensor502', 'Sensor503', 'Sensor504', 'Sensor505', 'Sensor506', 'Sensor507', 'Sensor508', 'Sensor509', 'Sensor510', 'Sensor513', 'Sensor514', 'Sensor515', 'Sensor516', 'Sensor529', 'Sensor530', 'Sensor531', 'Sensor532', 'Sensor533', 'Sensor534', 'Sensor535', 'Sensor536', 'Sensor537', 'Sensor538', 'Sensor539']
+$2022-01-29 00:25:14 Redundant columns ['Sensor6', 'Sensor14', 'Sensor43', 'Sensor50', 'Sensor53', 'Sensor70', 'Sensor98', 'Sensor142', 'Sensor150', 'Sensor179', 'Sensor180', 'Sensor187', 'Sensor190', 'Sensor191', 'Sensor192', 'Sensor193', 'Sensor194', 'Sensor195', 'Sensor227', 'Sensor230', 'Sensor231', 'Sensor232', 'Sensor233', 'Sensor234', 'Sensor235', 'Sensor236', 'Sensor237', 'Sensor238', 'Sensor241', 'Sensor242', 'Sensor243', 'Sensor244', 'Sensor257', 'Sensor258', 'Sensor259', 'Sensor260', 'Sensor261', 'Sensor262', 'Sensor263', 'Sensor264', 'Sensor265', 'Sensor266', 'Sensor267', 'Sensor277', 'Sensor285', 'Sensor314', 'Sensor315', 'Sensor316', 'Sensor323', 'Sensor326', 'Sensor327', 'Sensor328', 'Sensor329', 'Sensor330', 'Sensor331', 'Sensor365', 'Sensor370', 'Sensor371', 'Sensor372', 'Sensor373', 'Sensor374', 'Sensor375', 'Sensor376', 'Sensor379', 'Sensor380', 'Sensor381', 'Sensor382', 'Sensor395', 'Sensor396', 'Sensor397', 'Sensor398', 'Sensor399', 'Sensor400', 'Sensor401', 'Sensor402', 'Sensor403', 'Sensor404', 'Sensor405', 'Sensor415', 'Sensor423', 'Sensor450', 'Sensor451', 'Sensor452', 'Sensor459', 'Sensor462', 'Sensor463', 'Sensor464', 'Sensor465', 'Sensor466', 'Sensor467', 'Sensor482', 'Sensor499', 'Sensor502', 'Sensor503', 'Sensor504', 'Sensor505', 'Sensor506', 'Sensor507', 'Sensor508', 'Sensor509', 'Sensor510', 'Sensor513', 'Sensor514', 'Sensor515', 'Sensor516', 'Sensor529', 'Sensor530', 'Sensor531', 'Sensor532', 'Sensor533', 'Sensor534', 'Sensor535', 'Sensor536', 'Sensor537', 'Sensor538', 'Sensor539'] removed successfully.
+$2022-01-29 00:25:14 Null values checked successfully.18511 null values present in dataset.
+$2022-01-29 00:25:15 Model KNNImputer saved successfully
+$2022-01-29 00:25:15 Missing values imputed successfully.
+$2022-01-29 00:27:46 XGBClassifier's best parameters are:{'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}.
+$2022-01-29 00:28:16 n_estimators must be an integer, got <class 'dict'>.
+$2022-01-29 00:28:16 'NoneType' object has no attribute 'score'
+$2022-01-29 00:28:16 cannot unpack non-iterable NoneType object
+$2022-01-29 00:32:20 Script Started...
+$2022-01-29 00:32:20 Fetching of values from trainingDatasetSchema.json started...
+$2022-01-29 00:32:20 Values for validating Data Sharing Aggrement fetched successfully  from trainingDatasetSchema.json
+$2022-01-29 00:32:20 Regex pattern created for file name validation purpose
+$2022-01-29 00:32:20 Bad Raw Folder deleted successfully.
+$2022-01-29 00:32:20 Good Raw Folder deleted successfully.
+$2022-01-29 00:32:20 validatedFiles/Good_Raw_Files/ created.
+$2022-01-29 00:32:20 validatedFiles/Bad_Raw_Files/ created
+$2022-01-29 00:32:20 Bad file!! Wafer12_20012.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Waferdefault_15010_130532.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_07012020_000000.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 wafer_07012020_041011.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_07012020_223345.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_08012020_120000.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_10012020_131534.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_11012020_151432.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_12012020_111.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_12012020_111213.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 wafer_13012020_090817.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_13012020_141000.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_14012020_113045.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_15010_130532.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_15012020_130532.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 wafer_16012020_051629.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_16012020_134553.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_17012020_125434.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_18012020_121532.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_19012020_141432.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 wafer_20012020_090819.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_20012020_135132.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 wafer_20022020_090716.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_21012020_080913.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_21012020_143634.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_22012020_173245.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 wafer_22022020_041119.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_23012020_011008.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_23012020_041211.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_23012020_163456.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_24012020_150121.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_25012020_142112.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 wafer_27012020_080911.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_28012020_051011.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_28012020_090817.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_28042020_031911.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_29012020_050617.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_29012020_060756.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 wafer_31012020_090811.csv successfully moved to Good Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_fault_detection.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 Bad file!! Wafer_text_130532.csv move to Bad Raw Folder.
+$2022-01-29 00:32:20 All files are divided into Good Raw Files and Bad Raw Files.
+$2022-01-29 00:32:20 Column Validation Started...
+$2022-01-29 00:32:20 Column Validation fail for wafer_07012020_041011.csv
+$2022-01-29 00:32:20 Number of columns and Null ColumnsValidated successfully for wafer_13012020_090817.csv.
+$2022-01-29 00:32:21 Number of columns and Null ColumnsValidated successfully for wafer_16012020_051629.csv.
+$2022-01-29 00:32:21 Column Validation fail for wafer_16012020_134553.csv
+$2022-01-29 00:32:21 Column Validation fail for wafer_17012020_125434.csv
+$2022-01-29 00:32:21 Column Validation fail for wafer_20012020_090819.csv
+$2022-01-29 00:32:21 Number of columns and Null ColumnsValidated successfully for wafer_20022020_090716.csv.
+$2022-01-29 00:32:21 Number of columns and Null ColumnsValidated successfully for wafer_21012020_080913.csv.
+$2022-01-29 00:32:21 Column Validation fail for wafer_22022020_041119.csv
+$2022-01-29 00:32:21 Column Validation fail for wafer_23012020_011008.csv
+$2022-01-29 00:32:21 Number of columns and Null ColumnsValidated successfully for wafer_23012020_041211.csv.
+$2022-01-29 00:32:21 Number of columns and Null ColumnsValidated successfully for wafer_27012020_080911.csv.
+$2022-01-29 00:32:22 Column Validation fail for wafer_28012020_051011.csv
+$2022-01-29 00:32:22 Number of columns and Null ColumnsValidated successfully for wafer_28012020_090817.csv.
+$2022-01-29 00:32:22 Number of columns and Null ColumnsValidated successfully for wafer_28042020_031911.csv.
+$2022-01-29 00:32:22 Number of columns and Null ColumnsValidated successfully for wafer_29012020_050617.csv.
+$2022-01-29 00:32:22 Column Validation fail for wafer_29012020_060756.csv
+$2022-01-29 00:32:22 Column Validation fail for wafer_31012020_090811.csv
+$2022-01-29 00:32:23 File wafer_13012020_090817.csv transformed successfully.
+$2022-01-29 00:32:24 File wafer_16012020_051629.csv transformed successfully.
+$2022-01-29 00:32:25 File wafer_20022020_090716.csv transformed successfully.
+$2022-01-29 00:32:26 File wafer_21012020_080913.csv transformed successfully.
+$2022-01-29 00:32:41 Redundant columns ['Wafer'] removed successfully.
+$2022-01-29 00:32:41 Features and target values seperated successfully.
+Features are Index(['Sensor1', 'Sensor2', 'Sensor3', 'Sensor4', 'Sensor5', 'Sensor6',
+       'Sensor7', 'Sensor8', 'Sensor9', 'Sensor10',
+       ...
+       'Sensor581', 'Sensor582', 'Sensor583', 'Sensor584', 'Sensor585',
+       'Sensor586', 'Sensor587', 'Sensor588', 'Sensor589', 'Sensor590'],
+      dtype='object', length=590) and Output is target value.
+$2022-01-29 00:32:42 Columns with 0 standard deviation are:['Sensor6', 'Sensor14', 'Sensor43', 'Sensor50', 'Sensor53', 'Sensor70', 'Sensor98', 'Sensor142', 'Sensor150', 'Sensor179', 'Sensor180', 'Sensor187', 'Sensor190', 'Sensor191', 'Sensor192', 'Sensor193', 'Sensor194', 'Sensor195', 'Sensor227', 'Sensor230', 'Sensor231', 'Sensor232', 'Sensor233', 'Sensor234', 'Sensor235', 'Sensor236', 'Sensor237', 'Sensor238', 'Sensor241', 'Sensor242', 'Sensor243', 'Sensor244', 'Sensor257', 'Sensor258', 'Sensor259', 'Sensor260', 'Sensor261', 'Sensor262', 'Sensor263', 'Sensor264', 'Sensor265', 'Sensor266', 'Sensor267', 'Sensor277', 'Sensor285', 'Sensor314', 'Sensor315', 'Sensor316', 'Sensor323', 'Sensor326', 'Sensor327', 'Sensor328', 'Sensor329', 'Sensor330', 'Sensor331', 'Sensor365', 'Sensor370', 'Sensor371', 'Sensor372', 'Sensor373', 'Sensor374', 'Sensor375', 'Sensor376', 'Sensor379', 'Sensor380', 'Sensor381', 'Sensor382', 'Sensor395', 'Sensor396', 'Sensor397', 'Sensor398', 'Sensor399', 'Sensor400', 'Sensor401', 'Sensor402', 'Sensor403', 'Sensor404', 'Sensor405', 'Sensor415', 'Sensor423', 'Sensor450', 'Sensor451', 'Sensor452', 'Sensor459', 'Sensor462', 'Sensor463', 'Sensor464', 'Sensor465', 'Sensor466', 'Sensor467', 'Sensor482', 'Sensor499', 'Sensor502', 'Sensor503', 'Sensor504', 'Sensor505', 'Sensor506', 'Sensor507', 'Sensor508', 'Sensor509', 'Sensor510', 'Sensor513', 'Sensor514', 'Sensor515', 'Sensor516', 'Sensor529', 'Sensor530', 'Sensor531', 'Sensor532', 'Sensor533', 'Sensor534', 'Sensor535', 'Sensor536', 'Sensor537', 'Sensor538', 'Sensor539']
+$2022-01-29 00:32:42 Redundant columns ['Sensor6', 'Sensor14', 'Sensor43', 'Sensor50', 'Sensor53', 'Sensor70', 'Sensor98', 'Sensor142', 'Sensor150', 'Sensor179', 'Sensor180', 'Sensor187', 'Sensor190', 'Sensor191', 'Sensor192', 'Sensor193', 'Sensor194', 'Sensor195', 'Sensor227', 'Sensor230', 'Sensor231', 'Sensor232', 'Sensor233', 'Sensor234', 'Sensor235', 'Sensor236', 'Sensor237', 'Sensor238', 'Sensor241', 'Sensor242', 'Sensor243', 'Sensor244', 'Sensor257', 'Sensor258', 'Sensor259', 'Sensor260', 'Sensor261', 'Sensor262', 'Sensor263', 'Sensor264', 'Sensor265', 'Sensor266', 'Sensor267', 'Sensor277', 'Sensor285', 'Sensor314', 'Sensor315', 'Sensor316', 'Sensor323', 'Sensor326', 'Sensor327', 'Sensor328', 'Sensor329', 'Sensor330', 'Sensor331', 'Sensor365', 'Sensor370', 'Sensor371', 'Sensor372', 'Sensor373', 'Sensor374', 'Sensor375', 'Sensor376', 'Sensor379', 'Sensor380', 'Sensor381', 'Sensor382', 'Sensor395', 'Sensor396', 'Sensor397', 'Sensor398', 'Sensor399', 'Sensor400', 'Sensor401', 'Sensor402', 'Sensor403', 'Sensor404', 'Sensor405', 'Sensor415', 'Sensor423', 'Sensor450', 'Sensor451', 'Sensor452', 'Sensor459', 'Sensor462', 'Sensor463', 'Sensor464', 'Sensor465', 'Sensor466', 'Sensor467', 'Sensor482', 'Sensor499', 'Sensor502', 'Sensor503', 'Sensor504', 'Sensor505', 'Sensor506', 'Sensor507', 'Sensor508', 'Sensor509', 'Sensor510', 'Sensor513', 'Sensor514', 'Sensor515', 'Sensor516', 'Sensor529', 'Sensor530', 'Sensor531', 'Sensor532', 'Sensor533', 'Sensor534', 'Sensor535', 'Sensor536', 'Sensor537', 'Sensor538', 'Sensor539'] removed successfully.
+$2022-01-29 00:32:42 Null values checked successfully.18511 null values present in dataset.
+$2022-01-29 00:32:43 Model KNNImputer saved successfully
+$2022-01-29 00:32:43 Missing values imputed successfully.
+$2022-01-29 00:35:18 XGBClassifier's best parameters are:{'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}.
+$2022-01-29 00:35:45 RandomForestClassifier's best parameters are:{'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}
+$2022-01-29 00:35:45 XGBClassifier roc_auc_score:1.0
+RandomForestClassifier roc_auc_score:0.9642857142857143.
+$2022-01-29 00:35:45 Best objectSaver:RandomForestClassifierBest Model Accuracy Score:0.9642857142857143
+$2022-01-29 00:35:45 Model RandomForestClassifier saved successfully
+$2022-01-29 00:35:45 Model training done successfully.
+Best model is RandomForestClassifier
+$2022-01-29 00:38:33 XGBClassifier objectSaver load successfully.
+$2022-03-01 01:30:17 [Errno 2] No such file or directory: 'D:\\MachineLearningLiveClass\\baferdetection\\Validated_Raw_Files\\Good_Raw_Files\\wafer_13012020_090817.csv'
+$2022-03-01 01:30:23 [Errno 2] No such file or directory: 'logfiles.txt'
+$2022-03-01 01:31:12 Redundant columns ['Wafer'] removed successfully.
+$2022-03-01 01:31:12 Features and target values seperated successfully.
+Features are Index(['Sensor1', 'Sensor2', 'Sensor3', 'Sensor4', 'Sensor5', 'Sensor6',
+       'Sensor7', 'Sensor8', 'Sensor9', 'Sensor10',
+       ...
+       'Sensor581', 'Sensor582', 'Sensor583', 'Sensor584', 'Sensor585',
+       'Sensor586', 'Sensor587', 'Sensor588', 'Sensor589', 'Sensor590'],
+      dtype='object', length=590) and Output is target value.
+$2022-03-01 01:31:13 Columns with 0 standard deviation are:['Sensor6', 'Sensor14', 'Sensor43', 'Sensor50', 'Sensor53', 'Sensor70', 'Sensor98', 'Sensor142', 'Sensor150', 'Sensor179', 'Sensor180', 'Sensor187', 'Sensor190', 'Sensor191', 'Sensor192', 'Sensor193', 'Sensor194', 'Sensor195', 'Sensor227', 'Sensor230', 'Sensor231', 'Sensor232', 'Sensor233', 'Sensor234', 'Sensor235', 'Sensor236', 'Sensor237', 'Sensor238', 'Sensor241', 'Sensor242', 'Sensor243', 'Sensor244', 'Sensor257', 'Sensor258', 'Sensor259', 'Sensor260', 'Sensor261', 'Sensor262', 'Sensor263', 'Sensor264', 'Sensor265', 'Sensor266', 'Sensor267', 'Sensor277', 'Sensor285', 'Sensor314', 'Sensor315', 'Sensor316', 'Sensor323', 'Sensor326', 'Sensor327', 'Sensor328', 'Sensor329', 'Sensor330', 'Sensor331', 'Sensor365', 'Sensor370', 'Sensor371', 'Sensor372', 'Sensor373', 'Sensor374', 'Sensor375', 'Sensor376', 'Sensor379', 'Sensor380', 'Sensor381', 'Sensor382', 'Sensor395', 'Sensor396', 'Sensor397', 'Sensor398', 'Sensor399', 'Sensor400', 'Sensor401', 'Sensor402', 'Sensor403', 'Sensor404', 'Sensor405', 'Sensor415', 'Sensor423', 'Sensor450', 'Sensor451', 'Sensor452', 'Sensor459', 'Sensor462', 'Sensor463', 'Sensor464', 'Sensor465', 'Sensor466', 'Sensor467', 'Sensor482', 'Sensor499', 'Sensor502', 'Sensor503', 'Sensor504', 'Sensor505', 'Sensor506', 'Sensor507', 'Sensor508', 'Sensor509', 'Sensor510', 'Sensor513', 'Sensor514', 'Sensor515', 'Sensor516', 'Sensor529', 'Sensor530', 'Sensor531', 'Sensor532', 'Sensor533', 'Sensor534', 'Sensor535', 'Sensor536', 'Sensor537', 'Sensor538', 'Sensor539']
+$2022-03-01 01:31:13 Redundant columns ['Sensor6', 'Sensor14', 'Sensor43', 'Sensor50', 'Sensor53', 'Sensor70', 'Sensor98', 'Sensor142', 'Sensor150', 'Sensor179', 'Sensor180', 'Sensor187', 'Sensor190', 'Sensor191', 'Sensor192', 'Sensor193', 'Sensor194', 'Sensor195', 'Sensor227', 'Sensor230', 'Sensor231', 'Sensor232', 'Sensor233', 'Sensor234', 'Sensor235', 'Sensor236', 'Sensor237', 'Sensor238', 'Sensor241', 'Sensor242', 'Sensor243', 'Sensor244', 'Sensor257', 'Sensor258', 'Sensor259', 'Sensor260', 'Sensor261', 'Sensor262', 'Sensor263', 'Sensor264', 'Sensor265', 'Sensor266', 'Sensor267', 'Sensor277', 'Sensor285', 'Sensor314', 'Sensor315', 'Sensor316', 'Sensor323', 'Sensor326', 'Sensor327', 'Sensor328', 'Sensor329', 'Sensor330', 'Sensor331', 'Sensor365', 'Sensor370', 'Sensor371', 'Sensor372', 'Sensor373', 'Sensor374', 'Sensor375', 'Sensor376', 'Sensor379', 'Sensor380', 'Sensor381', 'Sensor382', 'Sensor395', 'Sensor396', 'Sensor397', 'Sensor398', 'Sensor399', 'Sensor400', 'Sensor401', 'Sensor402', 'Sensor403', 'Sensor404', 'Sensor405', 'Sensor415', 'Sensor423', 'Sensor450', 'Sensor451', 'Sensor452', 'Sensor459', 'Sensor462', 'Sensor463', 'Sensor464', 'Sensor465', 'Sensor466', 'Sensor467', 'Sensor482', 'Sensor499', 'Sensor502', 'Sensor503', 'Sensor504', 'Sensor505', 'Sensor506', 'Sensor507', 'Sensor508', 'Sensor509', 'Sensor510', 'Sensor513', 'Sensor514', 'Sensor515', 'Sensor516', 'Sensor529', 'Sensor530', 'Sensor531', 'Sensor532', 'Sensor533', 'Sensor534', 'Sensor535', 'Sensor536', 'Sensor537', 'Sensor538', 'Sensor539'] removed successfully.
+$2022-03-01 01:31:13 Null values checked successfully.18511 null values present in dataset.
+$2022-03-01 01:31:14 Model KNNImputer saved successfully
+$2022-03-01 01:31:14 Missing values imputed successfully.
+$2022-03-01 01:34:05 XGBClassifier's best parameters are:{'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}.
+$2022-03-01 01:34:58 RandomForestClassifier's best parameters are:{'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}
+$2022-03-01 01:34:58 XGBClassifier roc_auc_score:1.0
+RandomForestClassifier roc_auc_score:0.9642857142857143.
+$2022-03-01 01:34:58 Best objectSaver:RandomForestClassifierBest Model Accuracy Score:0.9642857142857143
+$2022-03-01 01:34:58 Model RandomForestClassifier saved successfully
+$2022-03-01 01:34:58 Model training done successfully.
+Best model is RandomForestClassifier
+$2022-03-01 01:36:02 [Errno 2] No such file or directory: 'logfiles.txt'
+$2022-03-01 01:38:14 XGBClassifier objectSaver load successfully.
+$2022-03-01 01:40:14 report.csv
